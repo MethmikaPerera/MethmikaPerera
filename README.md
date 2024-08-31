@@ -29,7 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<div align="left">
 
 - 🔭 I’m currently working on [SCOUT-Shop](https://github.com/MethmikaPerera/Homagama-District-Scout-Shop)  
   
@@ -37,9 +37,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🌱 I’m currently learning Java  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep the night shift switched on at all times   
 
-</td></tr></table>  
+</div>
 
 <br/>  
 
