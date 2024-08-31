@@ -1,14 +1,11 @@
 ## Hey 👋, I'm Methmika Perera.  
   
 
-
-
 ### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
-
 
 
 ### Follow Me On  
@@ -27,7 +24,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <a href="https://medium.com/MethmikaPerera" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
 
 <br/>  
 
@@ -35,17 +31,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [SCOUT-Shop](https://github.com/MethmikaPerera/Homagama-District-Scout-Shop)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently learning Java  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
 
 </td></tr></table>  
 
@@ -90,16 +82,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=MethmikaPerera&&style=flat-square)  
-  
 
 <br/>  
-
-
 
 ### Support Me  
 <div align="left">
@@ -110,6 +97,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
