@@ -26,20 +26,20 @@ I am an undergraduate at Java Institute for Advanced Technology, studying for my
 <br/>  
 
 
-## Rapidfire  
-<div align="left">
+// ## Rapidfire  
+// <div align="left">
 
-- 🔭 I’m currently working on [SCOUT-Shop](https://github.com/MethmikaPerera/Homagama-District-Scout-Shop)  
+// - 🔭 I’m currently working on [SCOUT-Shop](https://github.com/MethmikaPerera/Homagama-District-Scout-Shop)  
   
 
-- 🌱 I’m currently learning Java  
+// - 🌱 I’m currently learning Java  
   
 
-- ⚡ Fun fact: I keep the night shift switched on at all times   
+// - ⚡ Fun fact: I keep the night shift switched on at all times   
 
-</div>
+// </div>
 
-<br/>  
+// <br/>  
 
 
 ## Languages and Tools  
