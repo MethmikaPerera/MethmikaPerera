@@ -53,7 +53,7 @@ I am an undergraduate at Java Institute for Advanced Technology, studying for my
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MethmikaPerera&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MethmikaPerera&theme=discord&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
