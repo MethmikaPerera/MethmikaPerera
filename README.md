@@ -8,19 +8,19 @@ I am an undergraduate at Java Institute for Advanced Technology, studying for my
 
 ### Follow Me On  
 <a href="https://github.com/MethmikaPerera" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img width="50" height="50" src="/socialmedia-logos/github.png" alt="GitHub"/>
 </a>
 <a href="https://www.facebook.com/methmika.perera" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img width="50" height="50" src="/socialmedia-logos/facebook.png" alt="Facebook"/>
 </a>
 <a href="https://instagram.com/methmika_perera" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img width="50" height="50" src="/socialmedia-logos/instagram.png" alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/user/MethmikaPerera" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img width="50" height="50" src="/socialmedia-logos/youtube.png" alt="Youtube"/>
 </a>
 <a href="https://medium.com/MethmikaPerera" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img width="50" height="50" src="/socialmedia-logos/medium.png" alt="Medium"/>
 </a>  
 
 <br/>  
@@ -66,7 +66,7 @@ I am an undergraduate at Java Institute for Advanced Technology, studying for my
 
 ### Support Me  
 <div align="left">
-            <a href="https://www.buymeacoffee.com/MethmikaPerera"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=MethmikaPerera&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+            <a href="https://www.buymeacoffee.com/MethmikaPerera" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=MethmikaPerera&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
 
 <br/>  
