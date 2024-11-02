@@ -16,12 +16,19 @@ I am an undergraduate at Java Institute for Advanced Technology, studying for my
 <a href="https://instagram.com/methmika_perera" target="_blank">
 <img width="50" height="50" src="/socialmedia-logos/instagram.png" alt="Instagram"/>
 </a>
-<a href="https://www.youtube.com/user/MethmikaPerera" target="_blank">
+<a href="https://www.youtube.com/@MethmikaPerera" target="_blank">
 <img width="50" height="50" src="/socialmedia-logos/youtube.png" alt="Youtube"/>
 </a>
+<a href="https://www.linkedin.com/in/methmikaperera/" target="_blank">
+<img width="50" height="50" src="/socialmedia-logos/linkedin.png" alt="LinkedIn"/>
+</a>  
+<a href="https://x.com/MethmikaPerera" target="_blank">
+<img width="50" height="50" src="/socialmedia-logos/x.png" alt="X"/>
+</a>  
 <a href="https://medium.com/MethmikaPerera" target="_blank">
 <img width="50" height="50" src="/socialmedia-logos/medium.png" alt="Medium"/>
 </a>  
+
 
 <br/>  
 
