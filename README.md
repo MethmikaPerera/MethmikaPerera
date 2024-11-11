@@ -1,4 +1,4 @@
-## Hey 👋, I'm Methmika Perera.  
+# Hey 👋, I'm Methmika Perera.  
   
 
 ### Glad to see you here!  
