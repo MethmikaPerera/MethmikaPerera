@@ -74,6 +74,8 @@ I am an undergraduate at Java Institute for Advanced Technology, studying for my
 ### Support Me  
 <div align="left">
             <a href="https://www.buymeacoffee.com/MethmikaPerera" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=MethmikaPerera&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+  <br />
+  <a href="https://ko-fi.com/methmikaperera#paypalModal" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 </div>
 
 <br/>  
